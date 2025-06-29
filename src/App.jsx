@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Portfolio from './Portfolio'
+import Portfolio from './portfolio.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
