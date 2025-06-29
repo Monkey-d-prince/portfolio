@@ -600,7 +600,6 @@ if (project.isChallenging) {
               <ul className="experience-details">
                 <li>• Developing advanced NLP models for workplace analytics and behavioral predictions</li>
                 <li>• Building scalable web applications using MERN stack with performance optimizations</li>
-                <li>• Building scalable web applications using MERN stack with performance optimizations</li>
                 <li>• Creating automation tools for data extraction and AI-powered content generation</li>
                 <li>• Collaborating on machine learning projects utilizing TensorFlow and scikit-learn</li>
                 <li>• Optimizing data processing pipelines for efficient model training and analysis</li>
@@ -610,7 +609,7 @@ if (project.isChallenging) {
               <div className="experience-header">
                 <div>
                   <h3 className="experience-title">MERN Stack Intern</h3>
-                  <p className="experience-company">We Win Limited</p>
+                  <p className="experience-company">We Win Limited, Bhopal</p>
                 </div>
                 <span className="experience-date">Sep 2024 - Nov 2024</span>
               </div>
