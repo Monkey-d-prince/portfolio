@@ -598,11 +598,11 @@ if (project.isChallenging) {
                 <span className="experience-date">Current</span>
               </div>
               <ul className="experience-details">
-                <li>• Developing advanced NLP models for workplace analytics and behavioral predictions</li>
-                <li>• Building scalable web applications using MERN stack with performance optimizations</li>
-                <li>• Creating automation tools for data extraction and AI-powered content generation</li>
-                <li>• Collaborating on machine learning projects utilizing TensorFlow and scikit-learn</li>
-                <li>• Optimizing data processing pipelines for efficient model training and analysis</li>
+                <li>Developing advanced NLP models for workplace analytics and behavioral predictions</li>
+                <li>Building scalable web applications using MERN stack with performance optimizations</li>
+                <li>Creating automation tools for data extraction and AI-powered content generation</li>
+                <li>Collaborating on machine learning projects utilizing TensorFlow and scikit-learn</li>
+                <li>Optimizing data processing pipelines for efficient model training and analysis</li>
               </ul>
             </div>
             <div className="experience-card experience-card-past">
@@ -614,9 +614,9 @@ if (project.isChallenging) {
                 <span className="experience-date">Sep 2024 - Nov 2024</span>
               </div>
               <ul className="experience-details">
-                <li>• Collaborated with teams to ensure scalability and performance improvements</li>
-                <li>• Worked on machine learning projects for predictive analytics</li>
-                <li>• Optimized data processing pipelines for model training and analysis</li>
+                <li>Collaborated with teams to ensure scalability and performance improvements</li>
+                <li>Worked on machine learning projects for predictive analytics</li>
+                <li>Optimized data processing pipelines for model training and analysis</li>
               </ul>
             </div>
           </div>
